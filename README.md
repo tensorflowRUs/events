@@ -1,6 +1,6 @@
 # Events
 
-## Event (Date 22nd Februrary 2020) - Project initiation & team formation
+## Event (22nd Februrary 2020) - Project initiation & team formation
 
 ### Agenda
 * Registration - 10 mins
