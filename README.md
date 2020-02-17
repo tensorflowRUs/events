@@ -9,7 +9,10 @@
   * [Recycling](https://github.com/tensorflowRUs/recycling-object-detection) 
 * Team formations - 30 mins
 * Break 15 mins
-* Collaboration - 3 hours
+* Collaboration - 1 hour
+* Discussion on AI - 30 mins
+  * Theme - Tensoflow.js; example presentation.
+* Collaboration - 1 hour
 
 
 
